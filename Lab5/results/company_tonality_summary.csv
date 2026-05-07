@@ -1,0 +1,55 @@
+company,vacancies,platforms,avg_job_tonality_score,reviews_count,avg_review_tonality_score,positive_reviews,neutral_reviews,negative_reviews
+Kiss My Apps,4,Djinni,0.995825,5,0.56762,4,0,1
+Ajax Systems,3,"LinkedIn, Work.ua",0.9905333333333334,5,0.8298,4,1,0
+EPAM Systems,3,LinkedIn,0.9963666666666667,5,0.24258000000000002,2,0,3
+SKELAR,3,"Djinni, LinkedIn",0.9763999999999999,5,0.7503,4,0,1
+appflame,2,LinkedIn,0.99815,5,0.7726599999999999,4,0,1
+Glovo,2,LinkedIn,0.99955,5,0.9784599999999999,5,0,0
+N-iX,2,LinkedIn,0.9983,5,0.40190000000000003,2,0,3
+OBRIO,2,"Djinni, LinkedIn",0.99925,5,0.9903600000000001,5,0,0
+Sigma Software Group,2,"Djinni, LinkedIn",0.99375,5,0.67612,4,0,1
+CreativeByte,2,Djinni,0.9914,2,0.704,1,0,1
+RISK,2,"Djinni, LinkedIn",0.9972,0,,0,0,0
+Bini Games,1,Djinni,0.991,5,0.9168200000000001,4,1,0
+Bulls-media,1,Djinni,0.9937,5,0.98324,5,0,0
+EOS DATA ANALYTICS,1,LinkedIn,0.9918,5,0.9802199999999999,5,0,0
+EvoPlay,1,Work.ua,0.9501,5,0.8040800000000001,4,0,1
+Intellias,1,LinkedIn,0.998,5,0.7813800000000001,4,0,1
+Inzhur,1,Work.ua,0.9944,5,0.63974,4,0,1
+JustTech,1,Djinni,0.9916,5,0.9532999999999999,5,0,0
+Keiki,1,Djinni,0.9973,5,0.9839399999999999,5,0,0
+Miratech,1,LinkedIn,0.9989,5,0.4218,3,0,2
+MODUS X,1,LinkedIn,0.9964,5,0.7915,4,0,1
+OTP Digital,1,Djinni,0.9958,5,0.9619199999999999,5,0,0
+Ruby Labs,1,LinkedIn,0.9988,5,0.6258,4,0,1
+Traffic Squad,1,Djinni,0.9485,5,0.92774,5,0,0
+Work.ua,1,Work.ua,0.988,5,0.9432600000000001,5,0,0
+MilTech Recruitment,1,Work.ua,0.988,1,-0.2887,0,0,1
+1+1 media,1,Work.ua,0.9987,0,,0,0,0
+6 центр рекрутингу Сил безпілотних систем,1,Work.ua,0.9771,0,,0,0,0
+Avalon,1,LinkedIn,0.9876,0,,0,0,0
+Aventus Group,1,Work.ua,0.9928,0,,0,0,0
+Bookkeeping Services,1,Work.ua,0.9984,0,,0,0,0
+Credit7,1,Work.ua,0.9913,0,,0,0,0
+CreditKasa,1,Work.ua,0.9854,0,,0,0,0
+Dillo,1,Djinni,0.9762,0,,0,0,0
+Godlike,1,Djinni,0.9482,0,,0,0,0
+Goodevas,1,Work.ua,0.9909,0,,0,0,0
+Impulse (Headway Inc),1,Djinni,0.9985,0,,0,0,0
+Litero AI,1,LinkedIn,0.9973,0,,0,0,0
+Meest,1,Work.ua,0.9973,0,,0,0,0
+NICK Digital Agency,1,Djinni,0.9764,0,,0,0,0
+Raiffeisen Bank Ukraine,1,LinkedIn,0.9996,0,,0,0,0
+RedCore,1,Djinni,0.9964,0,,0,0,0
+Агенція оборонних закупівель DOT,1,Djinni,0.9971,0,,0,0,0
+"БусСистем, ТзОВ",1,Work.ua,0.9949,0,,0,0,0
+"Глобино, ГК",1,Work.ua,0.9911,0,,0,0,0
+ДрукБуст,1,Work.ua,0.9793,0,,0,0,0
+Київстар,1,Work.ua,0.9872,0,,0,0,0
+"Київський вітамінний завод, АТ",1,Work.ua,0.9883,0,,0,0,0
+ПроКредит Банк,1,Work.ua,0.9951,0,,0,0,0
+"СОС Сервіс Україна, асистуюча компанія, ТОВ",1,Work.ua,0.997,0,,0,0,0
+"Укр Армо Тех, ТОВ",1,Work.ua,0.9836,0,,0,0,0
+"Укргруппроект, ТОВ",1,Work.ua,0.9889,0,,0,0,0
+Цитрус,1,Work.ua,0.9933,0,,0,0,0
+Ідея Банк,1,Work.ua,0.9937,0,,0,0,0
