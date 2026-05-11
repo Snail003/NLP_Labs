@@ -1,0 +1,16 @@
+category,n,repeated_ngrams
+politics,1,834
+politics,2,373
+politics,3,153
+politics,4,81
+politics,5,46
+security,1,419
+security,2,179
+security,3,52
+security,4,19
+security,5,6
+economy,1,811
+economy,2,213
+economy,3,58
+economy,4,24
+economy,5,13
